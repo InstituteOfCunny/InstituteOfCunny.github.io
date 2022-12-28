@@ -5,9 +5,10 @@ function writeScene(scene) {
 			gamesAlreadyListed = "";
 			document.getElementById('output').innerHTML +=`
 				<div class="disclaimer">
-					<p class = "centeredText" style="font-size: 150%;">Welcome to The Institute Of Cunny</p>
-					<p class = "centeredText">Disclaimer:<br>This Website is a WIP and does not represent the final look of the Site</p>
-					<p class = "centeredText">We have no official discord but you can contact me via Email. <b>alexander192@instituteofcunny.com</b></p>
+					<p class = "centeredText" style="font-size: 150%;">Welcome to NoodleJacuzzi's Master Index!</p>
+					<p class = "centeredText">Disclaimer:<br>These games feature erotic material depicting strong sexual themes. The content in these games is not appropriate for minors, please enjoy responsibly. If you are not of legal age, please head to a place like coolmathgames or abcya for content you can legally enjoy.</p>
+					<p class = "centeredText">If you'd like to discuss the games here, or want to hang out with people like me or Cryptogreek, consider popping into the <a href="https://discord.gg/B3AszYM">discord server</a>. You can opt into release notifications and it's the easiest way to voice feedback about the games.</p>
+					<p class = "centeredText">Or, you can drop by the new <a href="https://www.reddit.com/r/noodlejacuzzi/">Noodle Jacuzzi Subreddit!</a>. Woooo~!</p>
 					<p class = "centeredText">And if you're shy, you can leave some feedback anonymously via my <a href="https://docs.google.com/forms/d/e/1FAIpQLScOc9ORWtiFH41QP0ZZTxntuCle2O0tHSoq6qQvChbeVubkgw/viewform">Suggestion Box!</a></p>
 					<p class = "centeredText"><b>Upcoming Release Schedule:</b></p>
 					<p class = "centeredText">Curious as to why my pace has been slower than usual lately? I'm currently doing the odd job to pay rent, and am currently battling some financial issues. I love game development, but I've gotta keep a roof over my head. I go into more detail <a href="https://www.patreon.com/posts/59367003/">Here</a></p>
