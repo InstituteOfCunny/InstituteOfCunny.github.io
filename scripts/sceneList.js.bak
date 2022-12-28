@@ -8,9 +8,6 @@ function writeScene(scene) {
 					<p class = "centeredText" style="font-size: 150%;">Welcome to The Institute Of Cunny</p>
 					<p class = "centeredText">Disclaimer:<br>This Website is a WIP and does not represent the final look of the Site</p>
 					<p class = "centeredText">We have no official discord but you can contact me via Email. <b>alexander192@instituteofcunny.com</b></p>
-					<p class = "centeredText">And if you're shy, you can leave some feedback anonymously via my <a href="https://docs.google.com/forms/d/e/1FAIpQLScOc9ORWtiFH41QP0ZZTxntuCle2O0tHSoq6qQvChbeVubkgw/viewform">Suggestion Box!</a></p>
-					<p class = "centeredText"><b>Upcoming Release Schedule:</b></p>
-					<p class = "centeredText">Curious as to why my pace has been slower than usual lately? I'm currently doing the odd job to pay rent, and am currently battling some financial issues. I love game development, but I've gotta keep a roof over my head. I go into more detail <a href="https://www.patreon.com/posts/59367003/">Here</a></p>
 				</div>
 				<div class="gridNotGames" id="NotGames">
 					<div class="nonGameContainer" id="newsFeed">

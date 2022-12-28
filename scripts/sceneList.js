@@ -14,36 +14,14 @@ function writeScene(scene) {
 						<p style="font-size: 120%">Latest News:</p>
 					</div>
 					<div class="nonGameContainer" id="patronList">
-						<p style="font-size: 120%">Patrons:</p>
-						<p>Swallows999</p>
-						<p>O Xy Enkin</p>
-						<p>Slacker Savior</p>
-						<a style="cursor:pointer;"onclick="sceneTransition('patrons')">And many more, come see the whole list of supporters!</a>
+						<p style="font-size: 120%">Developer:</p>
+						<p>Alexander192</p>
 					</div>
 				</div>
 				<hr>
 				<div class="grid" id="noodleGames">
 				</div>
-				<p class = "centeredText">If you enjoy my work please consider supporting me on <a href="https://www.patreon.com/noodlejacuzzi">Patreon</a>. I do multiple releases but only charge once each month. Aside from supporting me financially you can review the games or recommend them to a friend, those help out a great deal as well!</p>
 				<hr>
-				<p class = "centeredText" style="font-size: 150%;">Other games by authors I like:</p>
-				<div class="grid" id="otherGames">
-					/*<div class="gameContainer" onclick="sceneTransition('STDR')">
-						<img class="bigPicture" src="images/STDR.png">
-						<div class="gameTitle">
-					<div class="gameContainer" onclick="sceneTransition('RICO')">
-						<img class="bigPicture" src="images/RICO.png">
-						<div class="gameTitle">
-							<p class="gameTitleText">Ricoche</p>
-						</div>
-					</div>
-					<div class="gameContainer" onclick="sceneTransition('TTT')">
-						<img class="bigPicture" src="images/TTT.png">
-						<div class="gameTitle">
-							<p class="gameTitleText">Tits, Tail, Tackle: The Triple Triad</p>
-						</div>
-					</div>*/
-				</div>
 			`;
 			generateNews();
 			break;
