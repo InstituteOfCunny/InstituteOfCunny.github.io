@@ -31,108 +31,9 @@ function writeScene(scene) {
 				<hr>
 				<p class = "centeredText" style="font-size: 150%;">Other games by authors I like:</p>
 				<div class="grid" id="otherGames">
-					<div class="gameContainer" onclick="sceneTransition('DTC')">
-						<img class="bigPicture" src="images/DTC.png">
-						<div class="gameTitle">
-							<p class="gameTitleText">Dared to Change</p>
-						</div>
-					</div>
-					<div class="gameContainer" onclick="sceneTransition('RAV')">
-						<img class="bigPicture" src="images/RAV.png">
-						<div class="gameTitle">
-							<p class="gameTitleText">Ravager</p>
-						</div>
-					</div>
-					<div class="gameContainer" onclick="sceneTransition('LINK')">
-						<img class="bigPicture" src="images/LINK.png">
-						<div class="gameTitle">
-							<p class="gameTitleText">Link and the Temple of Lust</p>
-						</div>
-					</div>
-					<div class="gameContainer" onclick="sceneTransition('ERIS')">
-						<img class="bigPicture" src="images/ERIS.png">
-						<div class="gameTitle">
-							<p class="gameTitleText">Eris Dysnomia</p>
-						</div>
-					</div>
-					<div class="gameContainer" onclick="sceneTransition('CONT')">
-						<img class="bigPicture" src="images/CONT.png">
-						<div class="gameTitle">
-							<p class="gameTitleText">Contamination</p>
-						</div>
-					</div>
-					<div class="gameContainer" onclick="sceneTransition('OOZE')">
-						<img class="bigPicture" src="images/OOZE.png">
-						<div class="gameTitle">
-							<p class="gameTitleText">Oozehazard</p>
-						</div>
-					</div>
-					<div class="gameContainer" onclick="sceneTransition('AMAZON')">
-						<img class="bigPicture" src="images/AMAZON.png">
-						<div class="gameTitle">
-							<p class="gameTitleText">Natyusyo's Works</p>
-						</div>
-					</div>
-					<div class="gameContainer" onclick="sceneTransition('KANADES')">
-						<img class="bigPicture" src="images/KANADES.png">
-						<div class="gameTitle">
-							<p class="gameTitleText">Kanades Futanari Dungeon Quest</p>
-						</div>
-					</div>
-					<div class="gameContainer" onclick="sceneTransition('FOBS')">
-						<img class="bigPicture" src="images/FOBS.png">
-						<div class="gameTitle">
-							<p class="gameTitleText">Forest of Blue Skin</p>
-						</div>
-					</div>
-					<div class="gameContainer" onclick="sceneTransition('PARASITE')">
-						<img class="bigPicture" src="images/PARASITE.png">
-						<div class="gameTitle">
-							<p class="gameTitleText">Parasite in City</p>
-						</div>
-					</div>
-					<div class="gameContainer" onclick="sceneTransition('ZETRIA')">
-						<img class="bigPicture" src="images/ZETRIA.png">
-						<div class="gameTitle">
-							<p class="gameTitleText">Zetria</p>
-						</div>
-					</div>
-					<div class="gameContainer" onclick="sceneTransition('MAX')">
-						<img class="bigPicture" src="images/MAX.png">
-						<div class="gameTitle">
-							<p class="gameTitleText">Max the Elf</p>
-						</div>
-					</div>
-					<div class="gameContainer" onclick="sceneTransition('SAL')">
-						<img class="bigPicture" src="images/SAL.jpg">
-						<div class="gameTitle">
-							<p class="gameTitleText">Salvation</p>
-						</div>
-					</div>
-					<div class="gameContainer" onclick="sceneTransition('ARI')">
-						<img class="bigPicture" src="images/ARI.png">
-						<div class="gameTitle">
-							<p class="gameTitleText">Ariadne</p>
-						</div>
-					</div>
-					<div class="gameContainer" onclick="sceneTransition('STDR')">
+					/*<div class="gameContainer" onclick="sceneTransition('STDR')">
 						<img class="bigPicture" src="images/STDR.png">
 						<div class="gameTitle">
-							<p class="gameTitleText">Setalia the Demon Realm</p>
-						</div>
-					</div>
-					<div class="gameContainer" onclick="sceneTransition('TOA')">
-						<img class="bigPicture" src="images/TOA.png">
-						<div class="gameTitle">
-							<p class="gameTitleText">Tales of Androgyny</p>
-						</div>
-					</div>
-					<div class="gameContainer" onclick="sceneTransition('OBA')">
-						<img class="bigPicture" src="images/OBA.png">
-						<div class="gameTitle">
-							<p class="gameTitleText">Oba-San's Saga</p>
-						</div>
-					</div>
 					<div class="gameContainer" onclick="sceneTransition('RICO')">
 						<img class="bigPicture" src="images/RICO.png">
 						<div class="gameTitle">
@@ -144,7 +45,7 @@ function writeScene(scene) {
 						<div class="gameTitle">
 							<p class="gameTitleText">Tits, Tail, Tackle: The Triple Triad</p>
 						</div>
-					</div>
+					</div>*/
 				</div>
 			`;
 			generateNews();
