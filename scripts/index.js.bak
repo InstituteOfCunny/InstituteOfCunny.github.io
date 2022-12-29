@@ -22,7 +22,7 @@ function startup() {
 }
 function startupDesktop() {
 	document.getElementById('output').innerHTML += `
-		//<p class="choiceText" onclick="window.location.href='https://noodlejacuzzi.github.io/mobile.html'">Click here for the mobile version!</p>
+		//<p class="choiceText" onclick="window.location.href='https://noodlejacuzzi.github.io/mobile.html'">Click here for the mobile cunny version!</p>
 	`;
 	writeScene("start");
 }

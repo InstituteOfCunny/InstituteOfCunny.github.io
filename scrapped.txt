@@ -1,0 +1,2 @@
+ line 25
+<p class="choiceText" onclick="window.location.href='https://noodlejacuzzi.github.io/mobile.html'">Click here for the mobile version!</p>
