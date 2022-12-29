@@ -22,7 +22,8 @@ function startup() {
 }
 function startupDesktop() {
 	document.getElementById('output').innerHTML += `
-		//
+		<p class="choiceText" onclick="window.location.href='https://hub.instituteofcunny.com'">Click here for the Unavalible!</p>
+		<p class="choiceText" onclick="window.location.href='https://hub.instituteofcunny.com'">Click here for the Also Unavalible!</p>
 	`;
 	writeScene("start");
 }
